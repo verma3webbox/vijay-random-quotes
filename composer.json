@@ -1,5 +1,5 @@
 {
-    "name": "vijay/random-quote",
+    "name": "vijayverma/random-quote",
     "description": "Generate random quotes with auther name",
     "type": "library",
     "license": "MIT",
