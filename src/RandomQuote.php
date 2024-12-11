@@ -1,5 +1,5 @@
 <?php
-namespace Vijay\RandomQuote;
+namespace VijayVerma\RandomQuote;
 
 class RandomQuote{
     public function get(){
